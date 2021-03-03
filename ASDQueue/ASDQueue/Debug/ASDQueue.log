@@ -1,0 +1,3 @@
+﻿  ASDQueue.cpp
+C:\Users\Admin\source\repos\ASDQueue\ASDQueue\Queue.cpp(97): warning C4715: Queue<int>::operator[]: значение возвращается не при всех путях выполнения
+  ASDQueue.vcxproj -> C:\Users\Admin\source\repos\ASDQueue\Debug\ASDQueue.exe

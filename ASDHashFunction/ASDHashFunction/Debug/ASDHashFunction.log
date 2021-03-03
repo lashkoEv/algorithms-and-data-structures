@@ -1,0 +1,10 @@
+﻿  ASDHashFunction.cpp
+C:\Users\Admin\source\repos\ASDHashFunction\ASDHashFunction\ASDHashFunction.cpp(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ASDHashFunction\ASDHashFunction\ASDHashFunction.cpp(159): message : выполняется компиляция ссылки на экземпляр шаблон функции "int hash_function_string_key<std::string>(T,int,int)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Admin\source\repos\ASDHashFunction\ASDHashFunction\ASDHashFunction.cpp(138,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ASDHashFunction\ASDHashFunction\ASDHashFunction.cpp(144,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ASDHashFunction.vcxproj -> C:\Users\Admin\source\repos\ASDHashFunction\Debug\ASDHashFunction.exe

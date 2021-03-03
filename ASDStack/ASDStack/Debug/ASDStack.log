@@ -1,0 +1,5 @@
+﻿  ASDStack.cpp
+  Stack.cpp
+  Создание кода...
+C:\Users\Admin\source\repos\ASDStack\ASDStack\Stack.cpp(84): warning C4715: Stack<int>::operator[]: значение возвращается не при всех путях выполнения
+  ASDStack.vcxproj -> C:\Users\Admin\source\repos\ASDStack\Debug\ASDStack.exe

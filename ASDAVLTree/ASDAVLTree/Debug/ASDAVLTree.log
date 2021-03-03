@@ -1,0 +1,3 @@
+﻿  ASDAVLTree.cpp
+C:\Users\Admin\source\repos\ASDAVLTree\ASDAVLTree\ASDAVLTree.cpp(323): warning C4715: avlTree::remove: значение возвращается не при всех путях выполнения
+  ASDAVLTree.vcxproj -> C:\Users\Admin\source\repos\ASDAVLTree\Debug\ASDAVLTree.exe
